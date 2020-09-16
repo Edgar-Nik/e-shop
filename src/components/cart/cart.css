@@ -1,0 +1,7 @@
+.cart-container{
+    width: 70%;
+    margin: 5rem auto;
+    display: flex;
+    flex-direction: column;
+
+}
